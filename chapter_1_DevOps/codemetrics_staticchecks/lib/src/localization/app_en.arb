@@ -1,0 +1,6 @@
+{
+  "appTitle": "codemetrics_staticchecks",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
